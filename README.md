@@ -97,6 +97,15 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 
+## Giới thiệu về Mezon
+
+[Mezon](https://mezon.ai/) là nền tảng hỗ trợ phát triển bot và các ứng dụng tự động hóa cho cộng đồng.
+
+## Thêm bot vào Clan trên Mezon
+
+Để thêm bot vào clan của bạn trên nền tảng Mezon, hãy truy cập đường dẫn sau và làm theo hướng dẫn:
+
+👉 [Cài đặt bot vào Clan trên Mezon](https://mezon.ai/developers/bot/install/1840697773532385280)
 
 ## 💡 Features & Commands
 
